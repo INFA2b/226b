@@ -41,8 +41,6 @@ Please read the community guide lines [on this page](https://github.com/INFAxb/e
 
 Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
 
-<strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank">GitHub Guide (DE)</a></strong>
-
 <strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues" target="_blank">What is a issue?</a></strong>
 
 
