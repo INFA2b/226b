@@ -47,7 +47,7 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 ### Wie erstelle ich ein <i>Issue</i>?
 
-<strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues" target="_blank">How do i create an issue?</a></strong>
+<strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue" target="_blank">How do i create an issue?</a></strong>
 
 
 
