@@ -1,10 +1,5 @@
 # M226B - Objektorientiert (mit Vererbung) implementieren
-
-
-[TOC]
-
 ## Community Guidelines
-
 Please read the community guide lines [on this page](https://github.com/INFAxb/example-repository) first!
 
 ## Lernziele
