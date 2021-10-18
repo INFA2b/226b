@@ -37,6 +37,15 @@ Please read the community guide lines [on this page](https://github.com/INFAxb/e
 
 
 
+### Legende
+
+| <strong>Symbol</strong>                                      | Bedeutung             |
+| ------------------------------------------------------------ | --------------------- |
+| <span style="font-weight: 900; color: #DD0000; border: 3px solid #DD0000; border-radius: 30px; padding-left: 10px; padding-right: 10px;">!</span> | Wichtige Information. |
+|                                                              |                       |
+
+
+
 ### Was ist ein <i>Issue</i>?
 
 Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
