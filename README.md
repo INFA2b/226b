@@ -52,11 +52,15 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 <strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues" target="_blank">What is a issue?</a></strong>
 
+<span style="font-weight: 900; color: #DD0000; border: 3px solid #DD0000; border-radius: 30px; padding-left: 10px; padding-right: 10px;">!</span> Im Moment existiert noch keine Übersetzung ins Deutsche für diesen Artikel.
+
 
 
 ### Wie erstelle ich ein <i>Issue</i>?
 
 <strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue" target="_blank">How do i create an issue?</a></strong>
+
+<span style="font-weight: 900; color: #DD0000; border: 3px solid #DD0000; border-radius: 30px; padding-left: 10px; padding-right: 10px;">!</span> Im Moment existiert noch keine Übersetzung ins Deutsche für diesen Artikel.
 
 
 
