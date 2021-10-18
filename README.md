@@ -45,6 +45,12 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 
 
+### Wie erstelle ich ein <i>Issue</i>?
+
+<strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues" target="_blank">How do i create an issue?</a></strong>
+
+
+
 ### Was ist eine <i>pull request</i>?
 
 + <strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank">Was ist eine Pull request?</a></strong>
