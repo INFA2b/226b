@@ -37,7 +37,7 @@ Please read the community guide lines [on this page](https://github.com/INFAxb/e
 
 
 
-### Wieso darf ich nicht direkt in main pushen?
+### <span id="whyNotPushMainDirectly">Wieso darf ich nicht direkt in main pushen?</span>
 
 Sehr gute Frage!
 
@@ -45,9 +45,9 @@ Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Final
 
 
 
-### Wie kann ich mitarbeiten?
+### <span id="howToContribute">Wie kann ich mitarbeiten?</span>
 
-+ Falls du Fehler finden solltest, hilft es <strong><a href="#whatIsAIssue">ein Issue zu erstellen</a></strong>.
++ Falls du Fehler finden solltest, hilft es <strong><a href="#whatIsAnIssue">ein Issue zu erstellen</a></strong>.
 + Wenn du Code beitragen willst, dann must du:
   + Die repository mit `git clone https://github.com/INFA2b/226b.git` klonen.
   + Eine neue branch mit `git checkout -b <branchName>` erstellen.
@@ -58,7 +58,7 @@ Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Final
 
 
 
-### <span id="whatIsAIssue">Was ist ein <i>Issue</i>?</span>
+### <span id="whatIsAnIssue">Was ist ein <i>Issue</i>?</span>
 
 Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
 
@@ -68,7 +68,7 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 
 
-### Wie erstelle ich ein <i>Issue</i>?
+### <span id="howToCreateAnIssue">Wie erstelle ich ein <i>Issue</i>?</span>
 
 <strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue" target="_blank">How do i create an issue?</a></strong>
 
@@ -76,7 +76,7 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 
 
-### Was ist eine <i>pull request</i>?
+### <span id="whatIsAnPullRequest">Was ist eine <i>pull request</i>?</span>
 
 + <strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank">Was ist eine Pull request?</a></strong>
 
