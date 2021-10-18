@@ -37,6 +37,14 @@ Please read the community guide lines [on this page](https://github.com/INFAxb/e
 
 
 
+### Wieso darf ich nicht direkt in main pushen?
+
+Sehr gute Frage!
+
+Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Finalem. Das wo nur die <i>Crème de la Crème</i> der Codebase stehen sollte. Wenn nun jeder einfach so ohne Kontrolle seinen Code dort reinpusht, dann ist dem nicht mehr so. Ausserdem wird die `main` branch im Arbeitsumfeld für Releases genutzt, weshalb fast immer mit pull requests gearbeitet wird (pull requests sind in GitHub dass, was merge requests in GitLab sind). Dies stellt sicher das mindestens eine andere Person, als diejenige wo den Code geschrieben hat, sich den Code ansieht.
+
+
+
 ### Was ist ein <i>Issue</i>?
 
 Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
