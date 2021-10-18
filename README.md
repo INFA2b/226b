@@ -45,7 +45,20 @@ Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Final
 
 
 
-### Was ist ein <i>Issue</i>?
+### Wie kann ich mitarbeiten?
+
++ Falls du Fehler finden solltest, hilft es <strong><a href="#whatIsAIssue">ein Issue zu erstellen</a></strong>.
++ Wenn du Code beitragen willst, dann must du:
+  + Die repository mit `git clone https://github.com/INFA2b/226b.git` klonen.
+  + Eine neue branch mit `git checkout -b <branchName>` erstellen.
+    + Deine branch name sollte so aussehen: `<username>-<feature/patch/bugfix>-<digit>-<branchPurpose>`
+    + Beispiel: `git checkout -b thebadev-hotfix-42-fixCSRFVulnerabilitiesInForms`
+  + Deine branch kannst du mit `git push origin <branchName>` auf die remote Repository hochladen.
+  + Eine neue <strong><a href="#howTocreatePullRequest">pull request erstellen</a></strong>.
+
+
+
+### <span id="whatIsAIssue">Was ist ein <i>Issue</i>?</span>
 
 Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
 
@@ -71,7 +84,7 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 
 
-### Wie erstelle ich eine <i>pull request</i>?
+### <span id="howTocreatePullRequest">Wie erstelle ich eine <i>pull request</i>?</span>
 
 + <strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" target="_blank">Wie erstelle ich eine pull request?</a></strong>
 
