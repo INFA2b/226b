@@ -48,7 +48,7 @@ Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Final
 ### <span id="howToContribute">Wie kann ich mitarbeiten?</span>
 
 + Falls du Fehler finden solltest, hilft es <strong><a href="#whatIsAnIssue">ein Issue zu erstellen</a></strong>.
-+ Wenn du Code beitragen willst, dann must du:
++ Wenn du Code beitragen willst, dann musst du:
   + Die repository mit `git clone https://github.com/INFA2b/226b.git` klonen.
   + Eine neue branch mit `git checkout -b <branchName>` erstellen.
     + Deine branch name sollte so aussehen: `<username>-<feature/patch/bugfix>-<digit>-<branchPurpose>`
@@ -60,7 +60,7 @@ Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Final
 
 ### <span id="whatIsAnIssue">Was ist ein <i>Issue</i>?</span>
 
-Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
+Kurzgesagt: Ein Issue kann eine Frage, ein Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
 
 <strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues" target="_blank">What is a issue?</a></strong>
 
