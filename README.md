@@ -37,17 +37,46 @@ Please read the community guide lines [on this page](https://github.com/INFAxb/e
 
 
 
-### Was ist ein <i>Issue</i>?
+### <span id="whyNotPushMainDirectly">Wieso darf ich nicht direkt in main pushen?</span>
 
-Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
+Sehr gute Frage!
 
-<strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank">GitHub Guide (DE)</a></strong>
+Die `main` branch hat eine wichtige Bedeutung. Sie ist das Endprodukt. Das Finalem. Das wo nur die <i>Crème de la Crème</i> der Codebase stehen sollte. Wenn nun jeder einfach so ohne Kontrolle seinen Code dort reinpusht, dann ist dem nicht mehr so. Ausserdem wird die `main` branch im Arbeitsumfeld für Releases genutzt, weshalb fast immer mit pull requests gearbeitet wird (pull requests sind in GitHub dass, was merge requests in GitLab sind). Dies stellt sicher das mindestens eine andere Person, als diejenige wo den Code geschrieben hat, sich den Code ansieht.
+
+
+
+### <span id="howToContribute">Wie kann ich mitarbeiten?</span>
+
++ Falls du Fehler finden solltest, hilft es <strong><a href="#whatIsAnIssue">ein Issue zu erstellen</a></strong>.
++ Wenn du Code beitragen willst, dann musst du:
+  + Die repository mit `git clone https://github.com/INFA2b/226b.git` klonen.
+  + Eine neue branch mit `git checkout -b <branchName>` erstellen.
+    + Deine branch name sollte so aussehen: `<username>-<feature/patch/bugfix>-<digit>-<branchPurpose>`
+    + Beispiel: `git checkout -b thebadev-hotfix-42-fixCSRFVulnerabilitiesInForms`
+  + Deine branch kannst du mit `git push origin <branchName>` auf die remote Repository hochladen.
+  + Eine neue <strong><a href="#howTocreatePullRequest">pull request erstellen</a></strong>.
+
+
+
+### <span id="whatIsAnIssue">Was ist ein <i>Issue</i>?</span>
+
+Kurzgesagt: Ein Issue kann eine Frage, ein Vorschlag oder das aufmerksam machen auf ein Problem im Code sein.
 
 <strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues" target="_blank">What is a issue?</a></strong>
 
+<strong>Im Moment existiert noch keine Übersetzung ins Deutsche für diesen Artikel.</strong>
 
 
-### Was ist eine <i>pull request</i>?
+
+### <span id="howToCreateAnIssue">Wie erstelle ich ein <i>Issue</i>?</span>
+
+<strong><a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue" target="_blank">How do i create an issue?</a></strong>
+
+<strong>Im Moment existiert noch keine Übersetzung ins Deutsche für diesen Artikel.</strong>
+
+
+
+### <span id="whatIsAnPullRequest">Was ist eine <i>pull request</i>?</span>
 
 + <strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank">Was ist eine Pull request?</a></strong>
 
@@ -55,7 +84,7 @@ Kurzgesagt: Ein Issue kann ein Frage, Vorschlag oder das aufmerksam machen auf e
 
 
 
-### Wie erstelle ich eine <i>pull request</i>?
+### <span id="howTocreatePullRequest">Wie erstelle ich eine <i>pull request</i>?</span>
 
 + <strong><a href="https://docs.github.com/de/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" target="_blank">Wie erstelle ich eine pull request?</a></strong>
 
